@@ -19,6 +19,6 @@
 ![image](https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/77ccc268-f68e-4391-96e7-dc83be6d6bee)
 
 
-5_kiemtrasonguyento
+5_kiemtrasonguyento (Prime number check)
 
 ![image](https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/a5ecba36-dd47-48d5-a236-e548b8b3680f)
