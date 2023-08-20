@@ -1,4 +1,4 @@
-### 08CNPM_0850080110_ NguyenPhiTruong_LyThuyet_Buoi7
+### 08CNPM_0850080110_ NguyenPhiTruong_ThucHanh_Buoi1
 
 Welcome to the Flutter Practice Session 1 repository! Below you'll find some basic Flutter examples that you can explore within this repository.
 
