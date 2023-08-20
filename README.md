@@ -36,12 +36,22 @@
 
 <div align="center">
 
-### 4. Calculator
+<table>
+<tr>
+<td align="center">
 
+### 4. Calculator
 <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/77ccc268-f68e-4391-96e7-dc83be6d6bee.png" alt="Calculator" width="200"/>
 
-### 5. Prime Number Check
+</td>
+<td align="center">
 
+### 5. Prime Number Check
 <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/a5ecba36-dd47-48d5-a236-e548b8b3680f.png" alt="Prime Number Check" width="200"/>
 
+</td>
+</tr>
+</table>
+
 </div>
+
