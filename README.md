@@ -3,14 +3,13 @@
 <div align="center">
 
 ### 1. Hello World
-
 <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/5a6dc3a5-78b1-4e03-8da7-35604c8f8f48.png" alt="Hello World" width="200"/>
 
 ### 2. Design
-
 <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/1b0e621d-92e9-448d-9b7b-e43dd53d9b60.png" alt="Design" width="200"/>
 
 </div>
+
 
 <div align="center">
 
