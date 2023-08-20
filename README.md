@@ -1,24 +1,29 @@
-1_helloworld
+# Flutter Practice - Session 1
 
-![image](https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/5a6dc3a5-78b1-4e03-8da7-35604c8f8f48)
+Welcome to the Flutter Practice Session 1 repository! Below you'll find some basic Flutter examples that you can explore within this repository.
 
-2_design
+<div align="center">
 
-![image](https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/1b0e621d-92e9-448d-9b7b-e43dd53d9b60)
+## 1. Hello World
 
-3_changebackground
+<img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/5a6dc3a5-78b1-4e03-8da7-35604c8f8f48.png" alt="Hello World" width="300"/>
 
-![image](https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/7372c6b2-1cc2-4ca0-9eca-9756e4c01d71)
+## 2. Design
 
-![image](https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/a29f5498-614b-46c2-a688-0a7db9c6445e)
+<img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/1b0e621d-92e9-448d-9b7b-e43dd53d9b60.png" alt="Design" width="300"/>
 
-![image](https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/feb6d743-991e-450e-9738-54b209ae0734)
+## 3. Change Background
 
-4_calculator
+<img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/7372c6b2-1cc2-4ca0-9eca-9756e4c01d71.png" alt="Change Background 1" width="200"/>
+<img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/a29f5498-614b-46c2-a688-0a7db9c6445e.png" alt="Change Background 2" width="200"/>
+<img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/feb6d743-991e-450e-9738-54b209ae0734.png" alt="Change Background 3" width="200"/>
 
-![image](https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/77ccc268-f68e-4391-96e7-dc83be6d6bee)
+## 4. Calculator
 
+<img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/77ccc268-f68e-4391-96e7-dc83be6d6bee.png" alt="Calculator" width="300"/>
 
-5_kiemtrasonguyento (Prime number check)
+## 5. Prime Number Check
 
-![image](https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/a5ecba36-dd47-48d5-a236-e548b8b3680f)
+<img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/a5ecba36-dd47-48d5-a236-e548b8b3680f.png" alt="Prime Number Check" width="300"/>
+
+</div>
