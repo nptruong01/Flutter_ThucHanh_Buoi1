@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(
-    MaterialApp(
+    const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'My app', // used by the OS task switcher
       home: MyHomeScreen(),
@@ -11,15 +11,17 @@ void main() {
 }
 
 class MyHomeScreen extends StatelessWidget {
+  const MyHomeScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue,
-        title: Text('Trang Chu',
-          style: TextStyle(color: Colors.white),),
-
+        title: const Text(
+          'Trang Chu',
+          style: TextStyle(color: Colors.white),
+        ),
       ),
       body: SafeArea(
         child: Container(
@@ -29,30 +31,29 @@ class MyHomeScreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               //crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                Text(
+                const Text(
                   'Nguyen Phi Truong',
                   style: TextStyle(fontSize: 40, fontWeight: FontWeight.w900),
                 ),
-                SizedBox(height: 90),
+                const SizedBox(height: 90),
                 buildRowLayout(),
-                SizedBox(height: 90),
+                const SizedBox(height: 90),
                 Image.network(
                   'https://logowik.com/content/uploads/images/flutter5786.jpg',
                   width: 150,
                 ),
-                SizedBox(height: 90),
+                const SizedBox(height: 90),
                 ElevatedButton(
-
                     onPressed: () {
-                      ScaffoldMessenger.of(context).showSnackBar(
-                          SnackBar(
-                              backgroundColor: Colors.blue,
-                              content: Text('Nut da duoc bam!')));
+                      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+                          backgroundColor: Colors.blue,
+                          content: Text('Nut da duoc bam!')));
                     },
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.blue, // Change the button color here
+                      backgroundColor:
+                          Colors.blue, // Change the button color here
                     ),
-                    child: Text('Bam vao day!')),
+                    child: const Text('Bam vao day!')),
               ],
             )),
       ),
