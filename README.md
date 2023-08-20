@@ -26,13 +26,21 @@
 
 <div align="center">
 
-### 3. Change Background
+<table>
+<tr>
+<td align="center">
 
+### 3. Change Background
 <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/7372c6b2-1cc2-4ca0-9eca-9756e4c01d71.png" alt="Change Background 1" width="200"/>
 <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/a29f5498-614b-46c2-a688-0a7db9c6445e.png" alt="Change Background 2" width="200"/>
 <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi1/assets/113322089/feb6d743-991e-450e-9738-54b209ae0734.png" alt="Change Background 3" width="200"/>
 
+</td>
+</tr>
+</table>
+
 </div>
+
 
 <div align="center">
 
